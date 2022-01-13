@@ -1,0 +1,9 @@
+._toggle{
+    position: absolute;
+    right: 10px;
+    top: 15px;
+}
+
+.card-header{
+    position: relative;
+}
